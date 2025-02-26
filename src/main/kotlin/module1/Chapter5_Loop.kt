@@ -1,8 +1,8 @@
 package module1
 
 fun main() {
-    Chapter4_When.whenEx1()
-    Chapter4_When.whenEx2()
+    Chapter5_Loop.forEx1()
+    Chapter5_Loop.forEx2()
 }
 
 class Chapter5_Loop {
