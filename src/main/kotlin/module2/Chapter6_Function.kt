@@ -1,7 +1,5 @@
 package module2
 
-import module1.Chapter4_When
-
 fun main() {
     Chapter6_Function.functionWithDefaultArgs()
     Chapter6_Function.functionWithNamedArgs()
